@@ -68,7 +68,7 @@ function auto_version($file)
     </div>
 
     <div class="video-container">
-        <video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="https://gsw-2019.herokuapp.com/images/launch/Splash.mp4"></video>
+        <video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="http://gsw-2018.herokuapp.com/splash/img/Splash.mp4"></video>
     </div>
 
     <div class="brand2">
