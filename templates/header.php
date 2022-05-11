@@ -75,7 +75,7 @@ function auto_version($file)
 </div>
 
 <!--about us section:-->
-<div class="section-header text-center">
+    <div class="section-header text-center">
             <h1>About Us</h1>
     </div>
     <div class="text-center">
@@ -182,6 +182,8 @@ Since 1998, our non-profit, student-run organization has held 22 international w
     </div>
 </div>
 <br><br><br><br>
+
+    <br>
 
 <!--
     <div class="container">
