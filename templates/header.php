@@ -74,9 +74,23 @@ function auto_version($file)
     </div>
 </div>
 
+<!--about us section:-->
+<div class="section-header text-center">
+            <h1>About Us</h1>
+    </div>
+    <div class="text-center">
+        <p>MIT Global Startup Workshop (MIT GSW) is an annual multi-day conference that brings together entrepreneurs, students, investors, and key stakeholders from across the world to accelerate the entrepreneurial ecosystem of a host region. Through a series of tailored workshops, panels and keynote speakers, MIT GSW aims to share the entrepreneurial practices that have empowered thousands of companies to launch from MIT.
+
+MIT GSW is organized by a diverse group of graduate students and is strongly supported by the MIT entrepreneurial ecosystem including the MIT Legatum Center for Development & Entrepreneurship, the Martin Trust Center for MIT Entrepreneurship, and the MIT Regional Entrepreneurship Accelerator Program (MIT REAP).
+
+Since 1998, our non-profit, student-run organization has held 22 international workshops across 6 continents, and has attracted participants from over 70 nations.</p>
+        
+    </div>
+</br></br>
+
 <div class="section">
     <div class="text-center">
-        <a href='https://www.youtube.com/watch?v=FLc7qrZ-Y0c&ab_channel=MITGSW'><h1 style='color: rgba(243, 239, 239, 0.9);'>About us</h1></a>
+        <a href='https://www.youtube.com/watch?v=FLc7qrZ-Y0c&ab_channel=MITGSW'><h1 style='color: rgba(243, 239, 239, 0.9);'>Learn More</h1></a>
  
     </div>
 
@@ -168,21 +182,6 @@ function auto_version($file)
     </div>
 </div>
 <br><br><br><br>
-<div class="why-section">
-    <div class="row">
-    <br>
-    <div class="section-header text-center">
-            <h1>23 Years Strong</h1>
-    </div>
-    <div class="text-center">
-        <p>MIT Global Startup Workshop (MIT GSW) is an annual multi-day conference that brings together entrepreneurs, students, investors, and key stakeholders from across the world to accelerate the entrepreneurial ecosystem of a host region. Through a series of tailored workshops, panels and keynote speakers, MIT GSW aims to share the entrepreneurial practices that have empowered thousands of companies to launch from MIT.
-
-MIT GSW is organized by a diverse group of graduate students and is strongly supported by the MIT entrepreneurial ecosystem including the MIT Legatum Center for Development & Entrepreneurship, the Martin Trust Center for MIT Entrepreneurship, and the MIT Regional Entrepreneurship Accelerator Program (MIT REAP).
-
-Since 1998, our non-profit, student-run organization has held 22 international workshops across 6 continents, and has attracted participants from over 70 nations.</p>
-        
-    </div>
-    <br>
 
 <!--
     <div class="container">
