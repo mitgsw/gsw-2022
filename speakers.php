@@ -11,14 +11,14 @@
     </div>
 </div>
 
-<body style="background-image: url('images/speaker/speaker-background.jpg');">
+<body style="background-image: url('images/speaker/parallax2.jpg');">
 
 <div class="section">
     <div class="row text-center">
 
         <div class="col-lg-12 comp-content" id="speaker-section-expanded">
             <p class="section-header section-header-page" style="color: white; font-size: 1.7em">Speakers</p>
-            <h4 style="text-align: left;">MIT GSW is proud to host a diverse range of speakers from Cambridge, Latin America and around the world. 
+            <h4 style="text-align: left;">MIT GSW is proud to host a diverse range of speakers from Cambridge and around the world. 
             We're excited to have these world class individuals share their experiences with us!
             </h4>
 

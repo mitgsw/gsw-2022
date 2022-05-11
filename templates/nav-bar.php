@@ -135,7 +135,6 @@
                         <a class="dropdown-item" href="collab.php">Collaborators</a>
                     </div>
                 </li> 
-                <li><a href="sp-index.php">Español</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
             <a href="https://www.mit.edu"> 
