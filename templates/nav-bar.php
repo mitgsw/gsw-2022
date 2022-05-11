@@ -1,7 +1,7 @@
 <?php
     // Increase this version every time you change the style.css file
     // See more in https://css-tricks.com/strategies-for-cache-busting-css/#article-header-id-1
-    $cssVersion = "1.0.2";
+    $cssVersion = "1.0.3";
 
     //set headers to NOT cache a page
     header("Cache-Control: no-cache, must-revalidate"); //HTTP 1.1
@@ -10,13 +10,13 @@
 
     // Require https
 
-    //if( !($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https') ){
-        //if ($_SERVER['HTTPS'] != "on") {
-            //$url = "https://". $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
-           // header("Location: $url");
-           // exit;
-       // }
-    //}
+    if( !($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https') ){
+        if ($_SERVER['HTTPS'] != "on") {
+            $url = "https://". $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+            header("Location: $url");
+            exit;
+        }
+    }
 ?>
 
 <!DOCTYPE html>
@@ -25,15 +25,15 @@
     <meta http-equiv="Cache-control" content="public">
     <meta charset="UTF-8">
     <meta name = "author" content = "MIT Global Startup Workshop" />
-    <meta name = "revised" content = "MITGSW, 1/1/2019" />
-    <meta name = "keywords" content = "MIT, MITGSW, Colombia, Bogota, Conference, Global Startup Workshop, MIT Global Startup Workshop, Global, Startup, Workshop, Bangkok, Thailand, Massachusetts Institute of Technology, Entrepreneurship, 2019, 2018, Sloan, MIT Business, MIT Entrepreneurship" />
-    <meta name = "description" content = "MITGSW 2019 will be hosted in Bogota, Colombia - the 22 years in the making, MITGSW is MIT's only global student-organized conference, with the goal of fostering an entrepreneurship ecosystem in a different country, every year." />
+    <meta name = "revised" content = "MITGSW, 1/1/2022" />
+    <meta name = "keywords" content = "MIT, MITGSW, Global Startup Workshop, MIT Global Startup Workshop, Global, Startup, Workshop, Massachusetts Institute of Technology, Entrepreneurship, Sloan, MIT Business, MIT Entrepreneurship" />
+    <meta name = "description" content = "MIT GSW is MIT's only global student-organized conference, with the goal of fostering an entrepreneurship ecosystem in a different country, every year." />
     <meta http-equiv=”Content-Type” content=”text/html; charset=utf-8″ />
     <meta name=”robot” content=”index,nofollow”>
-    <meta property=”og:title” content=”MITGSW in Bogota, Colombia - MIT Global Startup Workshop 2019”/>
+    <meta property=”og:title” content=”MITGSW -MIT Global Startup Workshop 2022”/>
     <meta property=”og:image” content=”https://i.ibb.co/p4Y8Mcj/meta-pic.png”/>
-    <meta property=”og:site_name” content=”MITGSW Bogota”/>
-    <meta property=”og:description” content=”MITGSW 2019 will be hosted in Bogota, Colombia - the 22 years in the making, MITGSW is MITs only global student-organized conference, with the goal of fostering an entrepreneurship ecosystem in a different country, every year."/>
+    <meta property=”og:site_name” content=”MITGSW GWS”/>
+    <meta property=”og:description” content=”MITGSW MITGSW is MITs only global student-organized conference, with the goal of fostering an entrepreneurship ecosystem in a different country, every year."/>
 
     <title><?= $pageTitle ?></title>
     <link rel="shortcut icon" href="favicon.ico"/>
@@ -63,8 +63,8 @@
             <a class="navbar-brand" href="index.php"><img src="images/logo/GSW-logo-02.png" id="navbar-logo"></a>
         </div>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse navbar-mobile" id="bs-example-navbar-collapse-1">
+        <!-- Old Navbar: Collect the nav links, forms, and other content for toggling -->
+        <!--<div class="collapse navbar-collapse navbar-mobile" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li><a href="index.php">Home<span class="sr-only">(current)</span></a></li>
                 <li><a href="registration.php">Registration</a></li>
@@ -80,7 +80,7 @@
                         <a class="dropdown-item" href="efair.php">Startup <br /> Showcase</a>
                     </div>
                 </li> 
-                <!-- <li><a href="agenda.php">Agenda</a></li> -->
+                <!-- <li><a href="agenda.php">Agenda</a></li> --> <!--
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Agenda <span class="caret"></span>
@@ -96,13 +96,41 @@
                 </li> 
                 <li><a href="sponsors.php">Sponsors</a></li>
                 <li><a href="speakers.php">Speakers</a></li>
-                <!-- <li><a href="team.php">About Us</a></li> -->
+                <!-- <li><a href="team.php">About Us</a></li> --> <!--
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         About Us <span class="caret"></span>
                     </a>
                     <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="team.php">Who We <br />Are</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="collab.php">Collaborators</a>
+                    </div>
+                </li> 
+                <li><a href="sp-index.php">Español</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
+            <a href="https://www.mit.edu"> 
+                <img src="images/logo/mit-logo.png" id="navbar-logo-right">
+            </a>
+            </ul>
+        </div><!-- /.navbar-collapse -->-->
+
+        <!-- New navbar -->
+        <div class="collapse navbar-collapse navbar-mobile" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li><a href="index.php">Home<span class="sr-only">(current)</span></a></li>
+                
+                <!-- <li><a href="agenda.php">Agenda</a></li> --> 
+            
+                <li><a href="speakers.php">Speakers</a></li>
+                <!-- <li><a href="team.php">About Us</a></li> -->
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        About Us <span class="caret"></span>
+                    </a>
+                    <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="team.php">Our Team</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="collab.php">Collaborators</a>
                     </div>

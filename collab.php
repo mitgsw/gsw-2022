@@ -28,7 +28,7 @@
 <div class="line"></div>
 	    <br><br><br><br>
             <div class="section-subheader text-center">
-                <p><h1 style='color: rgba(243, 239, 239, 0.9);'>Academic Partners</h1></p>
+                <p><h1 style='color: rgba(243, 239, 239, 0.9);'>Academic Collaborators</h1></p>
                 <div class="row">
                     <br>
                     <img src="images/logo/mslao-logo.png" class="partner-logo">
@@ -42,12 +42,12 @@
 
 <body>
 
-<div class="section">
+<!--<div class="section">
     <br>
 
     <div class="section-header section-header-page" style="color: white">Collaborators</div>
 <div>
-</div>
+</div>-->
 
 
 <div class="row team-row text-center" id="collab-section-en">
