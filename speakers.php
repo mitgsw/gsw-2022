@@ -3,7 +3,7 @@
     include('templates/nav-bar.php');
 ?>
 
-<div class="parallax-window header" data-parallax="scroll" style="background-image: url('headers/img/parallax2.jpg');">
+<div class="parallax-window header" data-parallax="scroll" style="background-image: url('images/speaker/parallax2.jpg');">
     <div class="header-overlay">
     <h1 class="parallax-text">
         Our Speakers
