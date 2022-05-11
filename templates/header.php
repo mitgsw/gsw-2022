@@ -193,10 +193,10 @@ Since 1998, our non-profit, student-run organization has held 22 international w
 <div class="section">
     <div class="text-center">
       <div class="section-header"><h1 style='color: rgba(243, 239, 239, 0.9);'>Local Roots, Global Reach</h1></div>
-      <br><br>
+      <br>
       <div class="text-center">
       <p><h3 style='color: rgba(243, 239, 239, 0.9);'> Here's a map of the past venues for <strong>MIT GSW</strong>:</p>
-
+      <br>
       <p class="text-center">
         <a href="images/launch/Hi-Res_World Map_2022.png" title="Click to open larger version of the map">
           <img src="images/launch/Hi-Res_World Map_2022.png" class="img-responsive full-width" alt="Map of countries" />
