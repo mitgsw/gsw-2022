@@ -188,20 +188,19 @@ Since 1998, our non-profit, student-run organization has held 22 international w
     </div>
 </div>
 <br><br><br><br>
+<div class="section">
+      <div class="section-header">Local Roots, Global Reach</div>
+      <p>Here's a map of the past venues for <strong>MIT GSW</strong>:</p>
+
+      <p class="text-center">
+        <a href="images/launch/Hi-Res_World Map_2022.png" title="Click to open larger version of the map">
+          <img src="images/launch/Hi-Res_World Map_2022.png" class="img-responsive full-width" alt="Map of countries" />
+        </a>
+      </p>
+      <p class="text-center">(Click on the map to expand it.)</p>
+      <br />
+    </div>
 <div class="why-section">
-    <div class="row">
-    <br>
-    <div class="section-header text-center">
-            <h1>23 Years Strong</h1>
-    </div>
-    <div class="text-center">
-        <p>MIT Global Startup Workshop (MIT GSW) is an annual multi-day conference that brings together entrepreneurs, students, investors, and key stakeholders from across the world to accelerate the entrepreneurial ecosystem of a host region. Through a series of tailored workshops, panels and keynote speakers, MIT GSW aims to share the entrepreneurial practices that have empowered thousands of companies to launch from MIT.
-
-MIT GSW is organized by a diverse group of graduate students and is strongly supported by the MIT entrepreneurial ecosystem including the MIT Legatum Center for Development & Entrepreneurship, the Martin Trust Center for MIT Entrepreneurship, and the MIT Regional Entrepreneurship Accelerator Program (MIT REAP).
-
-Since 1998, our non-profit, student-run organization has held 22 international workshops across 6 continents, and has attracted participants from over 70 nations.</p>
-        
-    </div>
     <br>
 
 <!--
