@@ -52,7 +52,7 @@ function auto_version($file)
     <div class="brand">
         <img src="images/launch/gsw-heading.png"/>
         <br> <br>
-        <img src="images/launch/bogota_plus_dates.png" />
+        <img src="images/launch/GSW-logo-02.png" />
         <div class='text-center'>
             <i><h2>Innovate. Inspire. Impact.</h2></i>
         </div>
@@ -62,7 +62,7 @@ function auto_version($file)
 
     <div class="brand-logo">
         <h2 style="font-size: 2.5em"> Hosted By</h2>
-        <img src="images/logo/bogota-team-logo.png">
+        <img src="images/logo/GSW-logo-02.png">
     </div>
 
     <div class="video-container">
