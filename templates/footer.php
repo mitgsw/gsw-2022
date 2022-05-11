@@ -7,7 +7,7 @@
 
             <!-- <p class="section-header section-header-footer">Stay in touch! Subscribe to our newsletter.</p>
                 <p>Don't miss any news about MIT GSW 2019. We promise we won't spam you.</p>
-                <form method="post" class="form-inline" action="http://gsw.mit.edu/wordpress/?na=s">
+                <form method="post" class="form-inline" action="https://gsw.mit.edu/wordpress/?na=s">
                     <div class="form-group">
                         <input class="form-control" type="email" name="ne" placeholder="Email" required>
                         <input class="form-control" id="subscribe-button" type="submit" value="Subscribe">
@@ -43,15 +43,15 @@
                 <p class="footer-title">The Conference</p>
                 <a href="index.php">Home</a><br>
                 <!-- <a href="agenda.php">Agenda</a><br> -->
-                <a href="registration.php">Registration</a><br>
-                <a href="index.php#registration-section">Competitions</a><br>
-                <a href="speakers.php">Speakers</a><br>
+                <a href="https://mit.edu/">MIT</a><br>
+                <!--<a href="index.php#registration-section">Competitions</a><br>
+                <a href="speakers.php">Speakers</a><br>-->
             </div>
             <div class="col-md-4">
                 <p class="footer-title">Organization</p>
-                <a href="http://gsw.mit.edu/gsw-about/">History</a><br>
+                <a href="https://gsw.mit.edu/gsw-about/history.php">History</a><br>
                 <a href="team.php">Who we are</a><br>
-               <a href="index.php#registration-section">Sponsors</a><br>
+               <a href="collab.php">Collaborators</a><br>
                 <!-- <a href="index.php#location">Venue</a><br> -->
             </div>
         </div>
