@@ -66,7 +66,7 @@ function auto_version($file)
     </div>
 
     <div class="video-container">
-        <video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="https://gsw-2019.herokuapp.com/images/launch/bogota-drone-footage.mp4"></video>
+        <video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="https://gsw-2019.herokuapp.com/images/launch/main-video.mp4"></video>
     </div>
 
     <div class="brand2">
@@ -239,11 +239,14 @@ function auto_version($file)
     <div class="row">
     <br>
     <div class="section-header text-center">
-            <h1>THE VENUE</h1>
+            <h1>23 Years Strong</h1>
     </div>
     <div class="text-center">
-        <p>El Cubo - Business and Recreation Center (Colsubsidio)</p>
-        <p>Ak. 30 # 52-77, Bogotá D.C., Colombia</p>
+        <p>MIT Global Startup Workshop (MIT GSW) is an annual multi-day conference that brings together entrepreneurs, students, investors, and key stakeholders from across the world to accelerate the entrepreneurial ecosystem of a host region. Through a series of tailored workshops, panels and keynote speakers, MIT GSW aims to share the entrepreneurial practices that have empowered thousands of companies to launch from MIT.
+
+MIT GSW is organized by a diverse group of graduate students and is strongly supported by the MIT entrepreneurial ecosystem including the MIT Legatum Center for Development & Entrepreneurship, the Martin Trust Center for MIT Entrepreneurship, and the MIT Regional Entrepreneurship Accelerator Program (MIT REAP).
+
+Since 1998, our non-profit, student-run organization has held 22 international workshops across 6 continents, and has attracted participants from over 70 nations. We are proud to continue this annual tradition into 2022./p>
     </div>
     <br>
 
