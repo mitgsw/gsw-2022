@@ -189,13 +189,13 @@ Since 1998, our non-profit, student-run organization has held 22 international w
         <img src="images/launch/gsw-rafael-reif-mobile.jpg" class="img-responsive visible-xs-block" alt="Statement from L. Rafael Reif, president of MIT: By bringing together cross-sector experts and leaders, GSW has built a global support network, empowering and accelerating entrepreneurship in emerging markets, from Seoul to Madrid, Cape Town to Santiago. And now Bogota."/>
     </div>
 </div>
-<br><br><br><br>
+<br><br><br>
 <div class="section">
     <div class="text-center">
       <div class="section-header"><h1 style='color: rgba(243, 239, 239, 0.9);'>Local Roots, Global Reach</h1></div>
       <br><br>
       <div class="text-center">
-      <p><h2 style='color: rgba(243, 239, 239, 0.9);'> Here's a map of the past venues for <strong>MIT GSW</strong>:</p>
+      <p><h3 style='color: rgba(243, 239, 239, 0.9);'> Here's a map of the past venues for <strong>MIT GSW</strong>:</p>
 
       <p class="text-center">
         <a href="images/launch/Hi-Res_World Map_2022.png" title="Click to open larger version of the map">
