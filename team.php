@@ -40,7 +40,7 @@
 
     <br>
 
-    <div class="section-header section-header-page" style="color: white">Co-Directors</div>
+    <div class="section-header section-header-page" style="color: white">Managing Directors</div>
 <div></div>
 <div class="row team-row text-center">
     <!-- <div class="col-xs-12">
@@ -51,12 +51,12 @@
             <img class="team-picture" src="images/team/Farhan.jpg"></a>
             <div class="team-name">Farhan Khodaee</div>
             <div class="team-role">Co-Director</div>
-            <div class="team-area">MIT Mechanical Engineering</div>
+            <div class="team-area">MIT School of Engineering</div>
         </div><div class="team col-md-4"><a href="#teamAnnaeckhoff">
             <img class="team-picture" src="images/team/Anna.jpg"></a>
             <div class="team-name">Anna Eckhoff</div>
             <div class="team-role">Co-Director</div>
-            <div class="team-area">MIT Sloan Management</div>
+            <div class="team-area">MIT Sloan School of Management</div>
         <!--</div><div class="team col-md-4"><a href="#teamMJAntonini">
             <img class="team-picture" src="images/team/MJ.jpg"></a>
             <div class="team-name">MJ Antonini</div>
@@ -204,7 +204,7 @@
             <img class="team-picture" src="images/team/Tom.jpg">
             <div class="team-name">Tom Luly</div>
             <div class="team-role">GSW Director 2020</div>
-            <div class="team-area">MIT Sloan Management</div>
+            <div class="team-area">MIT Sloan School of Management</div>
         </div>
 <!--        <div class="team col-md-4">
             <img class="team-picture" src="images/team/David.jpg">
