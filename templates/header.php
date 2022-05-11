@@ -70,7 +70,7 @@ function auto_version($file)
     </div>
 
     <div class="brand2">
-        <p> footage from worldmoments.org</p>
+        <p> Cambrdige, MA/p>
     </div>
 </div>
 
@@ -111,32 +111,23 @@ function auto_version($file)
         </div>  
     </div>
 </div>
-
-<div id="registration-section">
-    <div class="row text-center">
-        <div class="col-xs-12">
-            <br /><br><br><br>
+<br><br><br> 
             
-            <div class="line"></div>
+    <div class="line"></div>
 	    <br><br><br><br>
             <div class="section-subheader text-center">
                 <p>Academic Partners</p>
-                <div class="container">
-                    
-                        <div class='row'>
-                        </div>
-                        <br>
-                        <img src="images/logo/mslao-logo.png" class="partner-logo">
-                        <img src="images/logo/legatum_2.png" class="partner-logo">
-                        <img src="images/logo/martin_trust_2.png" class="partner-logo">
-                        <img src="images/logo/reap_2.png" class="partner-logo">
-                    </div>
+                <div class="row">
+                    <br>
+                    <img src="images/logo/mslao-logo.png" class="partner-logo">
+                    <img src="images/logo/legatum_2.png" class="partner-logo">
+                    <img src="images/logo/martin_trust_2.png" class="partner-logo">
+                    <img src="images/logo/reap_2.png" class="partner-logo">
                 </div>
             </div>
-            <br><br>
-        </div>
-    </div>
-</div>
+        <br><br>
+     </div>
+
 
 <br><br>            
 <div class="why-section">
