@@ -197,8 +197,6 @@ Since 1998, our non-profit, student-run organization has held 22 international w
           <img src="images/launch/Hi-Res_World Map_2022.png" class="img-responsive full-width" alt="Map of countries" />
         </a>
       </p>
-      <p class="text-center">(Click on the map to expand it.)</p>
-      <br />
     </div>
 <div class="why-section">
     <br>
