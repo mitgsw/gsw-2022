@@ -124,11 +124,6 @@ function auto_version($file)
                 <div class="container">
                     
                         <div class='row'>
-                            <div style='display: block, margin: auto, text-align: center'>
-                                <img src="images/logo/cesa.png" class="partner-logo">
-                                <img src="images/logo/connect-logo.png" class="partner-logo">
-                                <img src="images/logo/nuevo-logo-2.png" class="partner-logo">
-                            </div>
                         </div>
                         <br>
                         <img src="images/logo/mslao-logo.png" class="partner-logo">
