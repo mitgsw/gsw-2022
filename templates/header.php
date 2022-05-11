@@ -66,7 +66,7 @@ function auto_version($file)
     </div>
 
     <div class="video-container">
-        <video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="https://gsw-2019.herokuapp.com/images/launch/main-video.mp4"></video>
+        <video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="https://gsw-2019.herokuapp.com/images/launch/Splash.mp4"></video>
     </div>
 
     <div class="brand2">
@@ -76,8 +76,8 @@ function auto_version($file)
 
 <div class="section">
     <div class="text-center">
-        <a href='https://www.youtube.com/watch?v=Xgdt24FuAkk'><h1 style='color: rgba(243, 239, 239, 0.9);'>CLICK HERE FOR THE LIVE STREAM SALON A</h1></a>
-        <a href='https://www.youtube.com/watch?v=ohr1D6PCJeU'><h1 style='color: rgba(243, 239, 239, 0.9);'>CLICK HERE FOR THE LIVE STREAM SALON B</h1></a>
+        <a href='https://www.youtube.com/watch?v=FLc7qrZ-Y0c&ab_channel=MITGSW'><h1 style='color: rgba(243, 239, 239, 0.9);'>About us</h1></a>
+ 
     </div>
 
 </div>
@@ -120,63 +120,9 @@ function auto_version($file)
             <div class="line"></div>
 	    <br><br><br><br>
             <div class="section-subheader text-center">
-                <p>Collaborators</p>
+                <p>Academic Partners</p>
                 <div class="container">
                     <div class="col-lg-12 text-center partner-border vertical-align" style="padding: 80px 0px 80px 0px ">
-                        <div class="col-sm-6 text-center">
-                            <h1 style='font-size: 3.5vw'> Our Host</h1>
-                        </div>
-                        <div class="col-sm-6">
-                            <a href="https://www.ccb.org.co/en">
-                                <img src="images/logo/bogota-team-logo.png" class="partner-logo partner-logo-mobile" style="height: 100px">
-                            </a>
-                        </div>
-                    </div>
-                    <br><br><br>
-                    <div class="col-lg-12 text-center partner-border vertical-align">
-                        <div class="col-sm-6 text-center ">
-                            <h1 style='font-size: 3.5vw'> Partner</h1>
-                        </div>
-                        <div class="col-sm-6">
-                            <a href="https://www.cetcolsubsidio.edu.co/"><img src="images/logo/colub-1.png" class='partner-logo-mobile' style="height: 110px;"> </a>
-                        </div>
-                    </div>
-                    <br><br><br>
-                    <div class="col-lg-12 text-center partner-border vertical-center" style="padding: 5px 0px 60px 0px ">
-                        <div class="text-center">
-                            <h1 style='font-size: 2.5vw'> Sponsors</h1>
-                            <br>
-                        </div>
-                        <br>
-
-                        <div class="row">
-                            <div style='display: block, margin: auto, text-align: center'>
-                                <img src="images/logo/mintic.png" class="partner-logo partner-logo-mobile">
-                                <img src="images/logo/hilton.png" class="partner-logo partner-logo-mobile">
-                                <img src="images/logo/softbank.png" class="partner-logo partner-logo-mobile" style="max-height: 70px">
-                            </div>
-                        </div>
-                        <br><br>
-
-                        <div class="row">
-                            <div style='display: block, margin: auto, text-align: center'>
-                                <img src="images/logo/claro.png" class="partner-logo">
-                                <img src="images/logo/sasin.png" class="partner-logo">
-                            </div>
-                        </div>
-                        <br><br>
-                        <div class="row ">
-                            <div style='display: block, margin: auto, text-align: center'>
-                                <img src="images/logo/pulsa2.png" class="partner-logo">
-                                <img src="images/logo/pulsa.png" class="partner-logo">
-                            </div>
-                        </div>
-                        
-                        <br>
-                    </div>
-                    <br><br>
-                    <div class="col-lg-12 text-center partner-border" style="padding: 5px 0px 80px 0px ">
-                        <div class="text-center">
                             <h2 class="academic-mobile" style="margin-bottom: 20px"> Academic Partners</h2>
                         </div>
                         <div class='row'>
@@ -246,7 +192,8 @@ function auto_version($file)
 
 MIT GSW is organized by a diverse group of graduate students and is strongly supported by the MIT entrepreneurial ecosystem including the MIT Legatum Center for Development & Entrepreneurship, the Martin Trust Center for MIT Entrepreneurship, and the MIT Regional Entrepreneurship Accelerator Program (MIT REAP).
 
-Since 1998, our non-profit, student-run organization has held 22 international workshops across 6 continents, and has attracted participants from over 70 nations. We are proud to continue this annual tradition into 2022./p>
+Since 1998, our non-profit, student-run organization has held 22 international workshops across 6 continents, and has attracted participants from over 70 nations.</p>
+        
     </div>
     <br>
 
@@ -260,7 +207,7 @@ Since 1998, our non-profit, student-run organization has held 22 international w
                 </iframe>
             </div>            
             <div class="col-xs-6">
-                <img class="why-img" src="images/launch/colsubsidio.jpg" />
+                <img class="why-img" src="images/launch/mit-top-view.jpg" />
             </div>
         </div>
     </div>
