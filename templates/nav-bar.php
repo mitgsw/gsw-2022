@@ -60,7 +60,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.php"><img src="images/logo/GSW-logo-02.png" id="navbar-logo"></a>
+            <a class="navbar-brand" href="index.php"><img src="images/logo/logo2.png" id="navbar-logo"></a>
         </div>
 
         <!-- Old Navbar: Collect the nav links, forms, and other content for toggling -->
