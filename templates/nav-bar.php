@@ -1,7 +1,7 @@
 <?php
     // Increase this version every time you change the style.css file
     // See more in https://css-tricks.com/strategies-for-cache-busting-css/#article-header-id-1
-    $cssVersion = "1.0.1";
+    $cssVersion = "1.0.2";
 
     //set headers to NOT cache a page
     header("Cache-Control: no-cache, must-revalidate"); //HTTP 1.1

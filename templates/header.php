@@ -82,7 +82,9 @@ function auto_version($file)
 
 </div>
 
-<div class="section">
+<!-- App section here (inactivated)-->
+
+<!--<div class="section">
     <div class="text-center">
         <i><h1 class="trn">Conference App</h1></i>
         <div class='row'>
@@ -111,12 +113,13 @@ function auto_version($file)
         </div>  
     </div>
 </div>
+-->
 <br><br><br> 
             
     <div class="line"></div>
 	    <br><br><br><br>
             <div class="section-subheader text-center">
-                <p>Academic Partners</p>
+                <p><h1 style='color: rgba(243, 239, 239, 0.9);'>Academic Partners</h1></p>
                 <div class="row">
                     <br>
                     <img src="images/logo/mslao-logo.png" class="partner-logo">
@@ -142,7 +145,7 @@ function auto_version($file)
                 <li>Participate in the <strong>GSW Competitions</strong> to receive mentorship from renowned entrepreneurs and gain access to exclusive <strong>VIP networking events</strong> </li>
                 <li>Display your company in the <strong>GSW Startup Showcase</strong> featuring protected time with investors</li>
                 <li>Gain access to top talent and emerging <strong>tech startups</strong></li>
-                <li>Learn and understand the <strong>business landscape</strong> in Colombia</li>
+                <li>Learn and understand the <strong>business landscape</strong> in a global context</li>
                 <li>Make fruitful connections with <strong>investors, government officials, corporate representatives,</strong> and more.</li>
             </ul><br><br><br>
         </div>
@@ -181,21 +184,30 @@ Since 1998, our non-profit, student-run organization has held 22 international w
     </div>
     <br>
 
+<!--
     <div class="container">
         <div class="row">
             <!-- <div class="col-xs-6 why-map" id="map">
-            </div> -->
+            </div> --> <!--
             <div class="col-xs-6 why-img">
                 <iframe class="why-map" src="https://maps.google.com/maps?width=720&amp;height=600&amp;hl=en&amp;coord=4.64216, -74.079369&amp;q=Ak.%2030%20%2352-77%2C%20Bogota%2C%20Colombia+(El%20Cubo%20-%20Business%20and%20Recreation%20Center)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=A&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
                 <a href="https://www.maps.ie/map-my-route/">Plot a route map</a>
                 </iframe>
             </div>            
             <div class="col-xs-6">
-                <img class="why-img" src="images/launch/mit-top-view.jpg" />
+                <img class="why-img" src="images/launch/mit-top-view.png" />
             </div>
         </div>
     </div>
 
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+</div> -->
+
+<div class="section">
+    <div class="text-center">
+        <a href='https://gsw.mit.edu/gsw-about/history.php'><h1 style='color: rgba(243, 239, 239, 0.9);'>Our History</h1></a>
+ 
+    </div>
+
 </div>
 </body>
