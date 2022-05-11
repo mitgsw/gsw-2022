@@ -114,7 +114,7 @@
                 <img src="images/logo/mit-logo.png" id="navbar-logo-right">
             </a>
             </ul>
-        </div><!-- /.navbar-collapse -->-->
+        </div><!-- /.navbar-collapse -->
 
         <!-- New navbar -->
         <div class="collapse navbar-collapse navbar-mobile" id="bs-example-navbar-collapse-1">
