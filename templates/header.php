@@ -1,4 +1,5 @@
 <?php
+
 /**
  *  Given a file, i.e. /css/base.css, replaces it with a string containing the
  *  file's mtime, i.e. /css/base.1221534296.css.
@@ -14,10 +15,11 @@ function auto_version($file)
   $mtime = filemtime($_SERVER['DOCUMENT_ROOT'] . $file);
   return preg_replace('{\\.([^./]+)$}', ".$mtime.\$1", $file);
 }
+
 ?>
-
+< meta http-equiv=”Refresh” content=”0;URL=https://www.gsw.mit.edu” />
 <head>
-
+< meta http-equiv=”Refresh” content=”0;URL=https://www.gsw.mit.edu” />
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130174054-2"></script>
     <script>

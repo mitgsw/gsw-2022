@@ -52,7 +52,7 @@
             <div class="team-name">Farhan Khodaee</div>
             <div class="team-role">Co-Director</div>
             <div class="team-area">MIT Mechanical Engineering</div>
-        </div><div class="team col-md-4"><a href="#teamKiranWattamwar">
+        </div><div class="team col-md-4"><a href="#teamAnnaeckhoff">
             <img class="team-picture" src="images/team/Anna.jpg"></a>
             <div class="team-name">Anna Eckhoff</div>
             <div class="team-role">Co-Director</div>
