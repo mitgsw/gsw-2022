@@ -191,8 +191,11 @@ Since 1998, our non-profit, student-run organization has held 22 international w
 </div>
 <br><br><br><br>
 <div class="section">
+    <div class="text-center">
       <div class="section-header"><h1 style='color: rgba(243, 239, 239, 0.9);'>Local Roots, Global Reach</h1></div>
-      <p>Here's a map of the past venues for <strong>MIT GSW</strong>:</p>
+      <br><br>
+      <div class="text-center">
+      <p><h2 style='color: rgba(243, 239, 239, 0.9);'> Here's a map of the past venues for <strong>MIT GSW</strong>:</p>
 
       <p class="text-center">
         <a href="images/launch/Hi-Res_World Map_2022.png" title="Click to open larger version of the map">
@@ -200,6 +203,8 @@ Since 1998, our non-profit, student-run organization has held 22 international w
         </a>
       </p>
     </div>
+</div>
+</div>
 <div class="why-section">
     <br>
 
