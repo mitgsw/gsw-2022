@@ -17,9 +17,9 @@ function auto_version($file)
 }
 
 ?>
-< meta http-equiv=”Refresh” content=”0;URL=https://www.gsw.mit.edu” />
+
 <head>
-< meta http-equiv=”Refresh” content=”0;URL=https://www.gsw.mit.edu” />
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130174054-2"></script>
     <script>
@@ -68,7 +68,7 @@ function auto_version($file)
     </div>
 
     <div class="video-container">
-        <video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="https://gsw-2019.herokuapp.com/images/launch/Splash.mp4"></video>
+        <video type='video/mp4' preload="none" autoplay loop muted="muted" plays-inline="" src="images/launch/Splash.mp4"></video>
     </div>
 
     <div class="brand2">
