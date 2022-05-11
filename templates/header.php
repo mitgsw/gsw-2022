@@ -122,9 +122,7 @@ function auto_version($file)
             <div class="section-subheader text-center">
                 <p>Academic Partners</p>
                 <div class="container">
-                    <div class="col-lg-12 text-center partner-border vertical-align" style="padding: 80px 0px 80px 0px ">
-                            <h2 class="academic-mobile" style="margin-bottom: 20px"> Academic Partners</h2>
-                        </div>
+                    
                         <div class='row'>
                             <div style='display: block, margin: auto, text-align: center'>
                                 <img src="images/logo/cesa.png" class="partner-logo">

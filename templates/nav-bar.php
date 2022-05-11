@@ -110,8 +110,8 @@
                 <li><a href="sp-index.php">Español</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
-            <a href="https://www.ccb.org.co/en"> 
-                <img src="images/logo/bogota-team-logo.png" id="navbar-logo-right">
+            <a href="https://www.mit.edu"> 
+                <img src="images/logo/mit-logo.png" id="navbar-logo-right">
             </a>
             </ul>
         </div><!-- /.navbar-collapse -->
