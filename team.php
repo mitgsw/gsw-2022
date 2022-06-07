@@ -58,7 +58,7 @@
             <div class="team-role">Co-Director</div>
             <div class="team-area">MIT Sloan School of Management</div>
         </div><div class="team col-md-4"><a href="#teamDanielaGorza">
-            <img class="team-picture" src="images/team/DanielaGorza2.jpg"></a>
+            <img class="team-picture" src="images/team/Daniela.jpg"></a>
             <div class="team-name">Daniela Gorza</div>
             <div class="team-role">Co-Director</div>
             <div class="team-area">MIT Sloan School of Management</div>
