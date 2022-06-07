@@ -64,6 +64,8 @@
             <div class="team-area">MIT Sloan School of Management</div>
         </div>
     </div>
+<div>
+
 <!--
     <div class="section-header section-header-page" style="color: white">Organizing Team</div>
     <div class="team-row text-center">
