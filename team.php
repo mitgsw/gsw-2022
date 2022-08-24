@@ -183,6 +183,26 @@
     <div class="section-header section-header-page" style="color: white">Advisory Board</div>
     <div class="row text-center team">
         <div class="col-md-4">
+            <img src="images/team/bill-aulet.jpg" class="team-picture" alt="">
+            <div class="team-name">Bill Aulet</div>
+            <div class="team-role">Faculty Advisor</div>
+            <div class="team-area">MIT Sloan School of Management</div>
+        </div>
+        <div class="col-md-4">
+            <img src="images/team/gita-rao.jpg" class="team-picture" alt="">
+            <div class="team-name">Gita Rao</div>
+            <div class="team-role">Faculty Advisor</div>
+            <div class="team-area">MIT Sloan School of Management</div>
+        </div>
+        <div class="col-md-4">
+            <img src="images/team/simon-johnson.jpg" class="team-picture" alt="">
+            <div class="team-name">Simon Johnson</div>
+            <div class="team-role">Faculty Advisor</div>
+            <div class="team-area">MIT Sloan School of Management</div>
+        </div>
+    </div>
+    <div class="row text-center team">
+        <div class="col-md-4">
             <img src="images/team/Megan.jpg" class="team-picture" alt="">
             <div class="team-name">Megan Mitchell</div>
             <div class="team-role">Acting Director</div>
