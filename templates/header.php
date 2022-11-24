@@ -52,11 +52,11 @@ function auto_version($file)
 <div data-parallax="scroll" class="parallax-window main-page-header" style="display:inline-block;">
 
     <div class="brand">
-        <img src="images/launch/gsw-heading.png"/>
+        <img src="images/launch/athens-bg.jpeg"/>
         <br> <br>
-        <img src="images/launch/GSW-logo-02.png" />
+        <img src="images/launch/logo-2023.png" />
         <div class='text-center'>
-            <i><h2>Innovate. Inspire. Impact.</h2></i>
+            <i><h2>Stay Tuned for GSW 2023!</h2></i>
         </div>
         <br> <br><br> <br><br> <br>
 
@@ -64,7 +64,7 @@ function auto_version($file)
 
     <div class="brand-logo">
         <h2 style="font-size: 2.5em"> Hosted By</h2>
-        <img src="images/logo/GSW-logo-02.png">
+        <img src="images/logo/logo-2023.png">
     </div>
 
     <div class="video-container">
