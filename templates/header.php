@@ -72,7 +72,7 @@ function auto_version($file)
     </div>
 
     <div class="brand2">
-        <p> Cambrdige, MA</p>
+        <p> Cambridge, MA</p>
     </div>
 </div>
 
