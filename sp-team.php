@@ -124,7 +124,7 @@
         <div class="team col-sm-6 col-md-3">
             <a href="#teamJoaquinRichards">
             <img class="team-picture" src="images/team/Joaquin.jpg"></a>
-            <div class="team-name">Joaquin Richards</div>
+            <div class="team-name">Farhan Richards</div>
             <div class="team-role">Content team</div>
             <div class="team-area">MIT Sloan School of Management</div>
         </div>

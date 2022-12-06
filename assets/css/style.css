@@ -1,36 +1,42 @@
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
+@import url("https://fonts.googleapis.com/css?family=Gotham:400,400italic,600,600italic,800,800italic");
 @font-face {
-    font-family: "DIN";
-    src: url("../user_fonts/FF_DIN_Black.otf");
+    font-family: "Gotham";
+    src: url("../user_fonts/Gotham-Bold.otf");
 }
 
 @font-face {
-    font-family: "DIN Italic";
-    src: url("../user_fonts/FF_DIN_Black_Italic.otf");
+    font-family: "Gotham Medium";
+    src: url("../user_fonts/Gotham-Medium.otf");
+}
+
+/*
+@font-face {
+    font-family: "Gotham Italic";
+    src: url("../user_fonts/Gotham_Black_Italic.otf");
 }
 
 @font-face {
-    font-family: "DIN Condensed";
-    src: url("../user_fonts/FF_DIN_Condensed_Black.otf");
+    font-family: "Gotham Condensed";
+    src: url("../user_fonts/FF_Gotham_Condensed_Black.otf");
 }
 
 @font-face {
-    font-family: "DIN Light";
-    src: url("../user_fonts/FF_DIN_Light.otf");
+    font-family: "Gotham Light";
+    src: url("../user_fonts/FF_Gotham_Light.otf");
 }
 
 @font-face {
-    font-family: "DIN Regular";
-    src: url("../user_fonts/FF_DIN_Regular.otf");
+    font-family: "Gotham Regular";
+    src: url("../user_fonts/FF_Gotham_Regular.otf");
 }
-
+*/
 html,
 body {
     margin: 0px;
     padding: 0px;
     width: 100vw;
-    font-family: 'DIN Regular', sans-serif;
+    font-family: 'Gotham Medium', sans-serif;
     display: inline-block;
     background-image: url("../../images/launch/launch_background_short.png");
     background-size: cover;
@@ -55,7 +61,7 @@ h6 {
     font-weight: 900;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-family: "DIN", sans-serif;
+    font-family: "Gotham", sans-serif;
     color: white;
 }
 
@@ -101,7 +107,7 @@ h6 {
     bottom: 5%;
     z-index: 2;
     width: 20%;
-    font-family: "DIN", sans-serif;
+    font-family: "Gotham", sans-serif;
 }
 
 .blob-img:hover img {
@@ -122,7 +128,7 @@ h6 {
     position: absolute;
     left: 18%;
     bottom: 8%;
-    font-family: "DIN", sans-serif;
+    font-family: "Gotham", sans-serif;
 }
 
 .text p {
@@ -153,11 +159,11 @@ h6 {
     overflow: hidden;
     position: relative;
     text-align: center;
-    font-family: "DIN", sans-serif;
+    font-family: "Gotham", sans-serif;
 }
 
 #banner2 p {
-    font-family: 'Din Light';
+    font-family: 'Gotham Light';
     color: white;
     font-size: 1.2vw;
     line-height: 90%;
@@ -170,14 +176,14 @@ h6 {
 }
 
 #banner2 h2 {
-    font-family: "DIN Italic";
+    font-family: "Gotham Italic";
     color: white;
     font-size: 2.5vw;
     line-height: 90%;
 }
 
 #banner2 h3 {
-    font-family: "DIN Regular";
+    font-family: "Gotham Regular";
     color: white;
     font-size: 1.7vw;
     line-height: 90%;
@@ -211,7 +217,7 @@ h6 {
 }
 
 #registration-section p {
-    font-family: DIN Italic;
+    font-family: Gotham Medium;
     font-size: 2vw
 }
 
@@ -234,7 +240,7 @@ a.register-btn-large {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-family: "DIN";
+    font-family: "Gotham Medium";
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
@@ -259,7 +265,7 @@ a.register-btn-large:hover {
 }
 
 a {
-    font-family: "DIN";
+    font-family: "Gotham Medium";
     color: rgba(243, 239, 239, 0.9);
 }
 
@@ -411,12 +417,12 @@ a:focus {
 .why-section ul {
     color: white;
     display: block;
-    font-family: DIN Italic;
+    font-family: Gotham Medium;
     font-size: 4vw
 }
 
 .why-section ul {
-    font-family: DIN Light;
+    font-family: Gotham Medium;
     font-size: 1.4vw
 }
 
@@ -427,11 +433,11 @@ h5,
 h6 {
     color: white;
     font-size: 1.3vw;
-    font-family: "DIN Light";
+    font-family: "Gotham Medium";
 }
 
 .why-section p {
-    font-family: "DIN";
+    font-family: "Gotham Medium";
     color: white;
     font-size: 1.4vw;
 }
@@ -452,7 +458,7 @@ h6 {
 }
 
 .why-section strong {
-    font-family: "DIN"
+    font-family: "Gotham Medium"
 }
 
 @media only screen and (min-width: 480px) {
@@ -499,7 +505,7 @@ h6 {
     border-bottom: 2px solid rgba(255, 255, 255, 0.8);
     padding-bottom: 5px;
     color: #0e1e58;
-    font-family: "DIN";
+    font-family: "Gotham Bold";
 }
 
 #newsletter_section {
@@ -888,7 +894,7 @@ h6 {
 /* HEADER CSS */
 
 .navbar a {
-    font-family: "DIN Light";
+    font-family: "Gotham Light";
 }
 
 .navbar {
@@ -1513,7 +1519,7 @@ h6 {
     margin-bottom: 5px;
     font-size: 1em;
     color: white;
-    font-family: "DIN";
+    font-family: "Gotham Medium";
 }
 
 .team-association,
@@ -1525,7 +1531,7 @@ h6 {
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: -0.2px;
-    font-family: "DIN Regular";
+    font-family: "Gotham Medium";
 }
 
 .team-area {
@@ -1533,7 +1539,7 @@ h6 {
     color: #e4e4f0;
     font-size: 0.9em;
     text-align: center;
-    font-family: "DIN Regular";
+    font-family: "Gotham Medium";
 }
 
 .team-row,
@@ -1544,7 +1550,7 @@ h6 {
 
 .team-row h2 {
     margin-bottom: 35px;
-    font-family: "DIN";
+    font-family: "Gotham Medium";
     font-size: 3vw;
 }
 
@@ -1558,7 +1564,7 @@ h6 {
     text-align: justify;
     text-justify: inter-word;
     color: rgba(255, 255, 255, 0.9);
-    font-family: "DIN Regular";
+    font-family: "Gotham Medium";
 }
 
 .team-expanded-name {
@@ -1920,13 +1926,13 @@ h6 {
 
 .registration-closed {
     font-weight: 900 !important;
-    font-family: 'DIN';
+    font-family: 'Gotham';
     color: #81FFA3;
 }
 
 .register-button {
     padding: 12px 16px;
-    font-family: "DIN";
+    font-family: "Gotham";
 }
 
 .footer-title {
@@ -2038,7 +2044,7 @@ p {
         overflow: hidden;
         position: relative;
         text-align: center;
-        font-family: "DIN", sans-serif;
+        font-family: "Gotham", sans-serif;
     }
     #banner2 div.landing-box {
         float: left;
@@ -2067,7 +2073,7 @@ p {
         bottom: 10%;
         z-index: 2;
         width: 40%;
-        font-family: "DIN", sans-serif;
+        font-family: "Gotham", sans-serif;
     }
     .blob-img:hover img {
         opacity: 0;
@@ -2085,7 +2091,7 @@ p {
         position: absolute;
         left: 40%;
         bottom: 10%;
-        font-family: "DIN", sans-serif;
+        font-family: "Gotham", sans-serif;
     }
     .text p {
         color: white;
@@ -2100,13 +2106,13 @@ p {
         line-height: 90%;
     }
     #banner2 h2 {
-        font-family: "DIN Italic";
+        font-family: "Gotham Medium";
         color: white;
         font-size: 5vw;
         line-height: 90%;
     }
     #banner2 h3 {
-        font-family: "DIN Regular";
+        font-family: "Gotham Medium";
         color: white;
         font-size: 1.7vw;
         line-height: 90%;
@@ -2142,7 +2148,7 @@ p {
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        font-family: "DIN";
+        font-family: "Gotham Medium";
         font-size: 16px;
         margin: 4px 2px;
         cursor: pointer;
@@ -2185,7 +2191,7 @@ p {
         font-size: 10vw
     }
     .why-section ul {
-        font-family: DIN Light;
+        font-family: Gotham Medium;
         font-size: 4vw
     }
     .why-section h2,
@@ -2195,10 +2201,10 @@ p {
     h6 {
         color: white;
         font-size: 4vw;
-        font-family: "DIN Light";
+        font-family: "Gotham Medium";
     }
     .why-section p {
-        font-family: "DIN";
+        font-family: "Gotham Medium";
         color: white;
         font-size: 4vw;
     }
@@ -2216,7 +2222,7 @@ p {
     }
     #registration-section p {
         color: white;
-        font-family: DIN Italic;
+        font-family: Gotham Medium;
         font-size: 10vw
     }
     #footer p {
@@ -2227,7 +2233,7 @@ p {
         display: none;
     }
     .navbar li {
-        font-family: "Din";
+        font-family: "Gotham Medium";
         font-size: 5vw;
     }
     .brand2 {
