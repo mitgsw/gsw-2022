@@ -1,5 +1,5 @@
 <?php
-    $pageTitle = 'Team | MIT Global Startup Workshop 2018';
+    $pageTitle = 'Team | MIT Global Startup Workshop 2023';
     include('templates/nav-bar.php');
 ?>
 
@@ -66,119 +66,91 @@
     </div>
 <div>
 
-<!--
     <div class="section-header section-header-page" style="color: white">Organizing Team</div>
     <div class="team-row text-center">
 	<div class="row">
         <div class="team col-sm-6 col-md-3"><a href="#teamSarahCen">
             <img class="team-picture" src="images/team/Sarah.jpg"></a>
-            <div class="team-name">Sarah Cen</div>
+            <div class="team-name">Madison Reddie</div>
             <div class="team-role">Content Team Lead</div>
-            <div class="team-area">MIT Electrical Engineering and Computer Science</div>
+            <div class="team-area">MIT MechE</div>
         </div>
         <div class="team col-sm-6 col-md-3"><a href="#teamJennaAronson">
             <img class="team-picture" src="images/team/Jenna.jpg"></a>
-            <div class="team-name">Jenna Aronson</div>
-            <div class="team-role">Competitions Team Lead</div>
-            <div class="team-area">MIT Brain &amp; Cognitive Sciences</div>
+            <div class="team-name">Jenny Cang</div>
+            <div class="team-role">Content - Internal Relations</div>
+            <div class="team-area">MIT Sloan School of Management (MBA '24)</div>
         </div>  
         <div class="team col-sm-6 col-md-3"><a href="#teamSheaLombardo">
             <img class="team-picture" src="images/team/Shea.jpg"></a>
-            <div class="team-name">Shea Lombardo</div>
-            <div class="team-role">Media Team Lead</div>
-            <div class="team-area">MIT AeroAstro</div>
+            <div class="team-name">Pooja Malhotra</div>
+            <div class="team-role">Content - External Relations</div>
+            <div class="team-area">MIT Sloan School of Management (MBA '23)</div>
         </div>
         <div class="team col-sm-6 col-md-3"><a href="#teamTomLuly">
             <img class="team-picture" src="images/team/Tom.jpg"></a>
-            <div class="team-name">Tom Luly</div>
-            <div class="team-role">External Relations Team Lead</div>
-            <div class="team-area">MIT Innovation Initiative</div>
+            <div class="team-name">Noah Roberts</div>
+            <div class="team-role">Finance</div>
+            <div class="team-area">MIT Sloan School of Management (MBA '24)</div>
         </div>
     </div>
         <div class="row">
         <div class="team col-sm-6 col-md-3">
             <a href="#teamLenaDownes"><img class="team-picture" src="images/team/Lena.jpg"></a>
-            <div class="team-name">Lena Downes</div>
-            <div class="team-role">Operations Co-Lead</div>
-            <div class="team-area">MIT AeroAstro</div>
+            <div class="team-name">Tiasa Kim</div>
+            <div class="team-role">Marketing - Website</div>
+            <div class="team-area">Wellesley B.A. Computer Science '23</div>
         </div>
         <div class="team col-sm-6 col-md-3">
             <a href="#teamZoeWolszon"><img class="team-picture" src="images/team/Zoe.jpg"></a>
-            <div class="team-name">Zoe Wolszon</div>
-            <div class="team-role">Operations Co-Lead</div>
-            <div class="team-area">MIT Sloan/EECS</div>
+            <div class="team-name">Liv Jones</div>
+            <div class="team-role">Marketing - Content</div>
+            <div class="team-area">MIT Sloan School of Management (MBA '24)</div>
         </div>
         <div class="team col-sm-6 col-md-3">
             <a href="#teamChrisChantre">
             <img class="team-picture" src="images/team/Chris.jpg"></a>
-            <div class="team-name">Chris Chantre</div>
-            <div class="team-role">Content Team</div>
-            <div class="team-area">Harvard School Of Engineering And Applied Sciences</div>
+            <div class="team-name">Dominic Co</div>
+            <div class="team-role">Marketing - Design</div>
+            <div class="team-area">MIT Arhcitecture Design "&amp" EECS</div>
         </div>
         <div class="team col-sm-6 col-md-3">
             <a href="#teamEmilyHsiao">
             <img class="team-picture" src="images/team/Emily.jpg"></a>
-            <div class="team-name">Emily Hsiao</div>
-            <div class="team-role">Content Team</div>
-            <div class="team-area">MIT Sloan School of Management</div>
+            <div class="team-name">Layla Araiinejad</div>
+            <div class="team-role">Community</div>
+            <div class="team-area">MIT Technology Policy Program</div>
         </div>
         </div>
         <div class="row">
         <div class="team col-sm-6 col-md-3">
             <a href="#teamJoaquinRichards">
             <img class="team-picture" src="images/team/Joaquin.jpg"></a>
-            <div class="team-name">Joaquin Richards</div>
-            <div class="team-role">Content team</div>
-            <div class="team-area">MIT Sloan School of Management</div>
+            <div class="team-name">Rishabh Goyal</div>
+            <div class="team-role">Competitions - Design</div>
+            <div class="team-area">MIT Sloan School of Management (MBA '23)</div>
         </div>
         <div class="team col-sm-6 col-md-3">
             <a href="#teamMayaNasr">
             <img class="team-picture" src="images/team/Maya.jpg"></a>
-            <div class="team-name">Maya Nasr</div>
-            <div class="team-role">Content Team</div>
-            <div class="team-area">MIT AeroAstro</div>
+            <div class="team-name">Olivia Gebhardt</div>
+            <div class="team-role">Competitions - Prizes</div>
+            <div class="team-area">MIT Sloan School of Management (MBA '24)</div>
         </div>
         <div class="team col-sm-6 col-md-3">
             <a href="#teamSantiagoMelo">
             <img class="team-picture" src="images/team/Santiago.jpg"></a>
-            <div class="team-name">Santiago Melo</div>
-            <div class="team-role">Competitions Team</div>
-            <div class="team-area">MIT Sloan School of Management</div>
+            <div class="team-name">Vineet Jagadeesan Nair</div>
+            <div class="team-role">Operations - Internal Relations</div>
+            <div class="team-area">MIT MechE</div>
         </div>
         <div class="team col-sm-6 col-md-3">
             <a href="#teamVananhSu"><img class="team-picture" src="images/team/VanAnh.jpg"></a>
-            <div class="team-name">Van-Anh Su</div>
-            <div class="team-role">Competitions Team</div>
-            <div class="team-area">MIT Sloan School of Management</div>
+            <div class="team-name">Katie Chen/div>
+            <div class="team-role">Operations - External Relations</div>
+            <div class="team-area">MIT IDM</div>
         </div>
         </div>
-        <div class="row">
-        <div class="team col-sm-6 col-md-3">
-            <a href="#teamKyleBranchesi"><img class="team-picture" src="images/team/Kyle.jpg"></a>
-            <div class="team-name">Kyle Branchesi</div>
-            <div class="team-role">Media Team: Design</div>
-            <div class="team-area">Harvard Public Administration and Design</div>
-        </div>
-        <div class="team col-sm-6 col-md-3">
-            <a href="#teamPramodaKarnati"><img class="team-picture" src="images/team/Pramoda.jpg"></a>
-            <div class="team-name">Pramoda Karnati</div>
-            <div class="team-role">Media Team: Web</div>
-            <div class="team-area">MIT Electrical Engineering and Computer Science Undergrad</div>
-        </div>
-        <div class="team col-sm-6 col-md-3">
-            <a href="#teamRachelBellisle"><img class="team-picture" src="images/team/Rachel.jpg"></a>
-            <div class="team-name">Rachel Bellisle</div>
-            <div class="team-role">Media Team: Social</div>
-            <div class="team-area">MIT Health Sciences and Technology</div>
-        </div>
-        <div class="team col-sm-6 col-md-3">
-            <a href="#teamJShelly"><img class="team-picture" src="images/team/J.jpg"></a>
-            <div class="team-name">J Shelly</div>
-            <div class="team-role">External Relations</div>
-            <div class="team-area">MIT Biology Undergrad</div>
-        </div>
-        </div>
--->       
     </div>
     <div class="section-header section-header-page" style="color: white">Advisory Board</div>
     <div class="row text-center team">
